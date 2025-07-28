@@ -65,5 +65,7 @@ AI Engineer | Steel Industry | Industrial Predictive Analytics
 
 📧 sedighi.63@gmail.com
 
+---
+
 ## 📄 License
 This project is intended for educational and research purposes. Unauthorized commercial use or redistribution of company data is prohibited. 
