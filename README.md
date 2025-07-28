@@ -55,7 +55,7 @@ These metrics consider partial correctness and overlapping label sets.
 
 ## 🔒 Data Notice
 ⚠️ Due to the company's privacy policy, the original CSV files (Total_Table_Slabs.csv, SlabLabels.csv) are not shared in this repository.
-If you need it, you can use dummy data or contact the author for collaboration.
+If you need it, you can contact the author for collaboration.
 
 ---
 
@@ -65,5 +65,5 @@ AI Engineer | Steel Industry | Industrial Predictive Analytics
 
 📧 sedighi.63@gmail.com
 
-📄 License
+## 📄 License
 This project is intended for educational and research purposes. Unauthorized commercial use or redistribution of company data is prohibited. 
