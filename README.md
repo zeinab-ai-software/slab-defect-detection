@@ -37,11 +37,13 @@ slab-defect-detection/
 
 ```bash
 pip install -r requirements.txt
-
+```
 2. Run the project:
 
 ```bash
 python main.py
+```
+---
 
 ## 📊 Evaluation Metrics
 This project uses the following metrics tailored for multi-label classification:
@@ -50,11 +52,15 @@ F1 Score (sample-based)
 accuracy (specialized for multi-output models)
 These metrics consider partial correctness and overlapping label sets.
 
-##🔒 Data Notice
+---
+
+## 🔒 Data Notice
 ⚠️ Due to the company's privacy policy, the original CSV files (Total_Table_Slabs.csv, SlabLabels.csv) are not shared in this repository.
 If you need it, you can use dummy data or contact the author for collaboration.
 
-👩‍💻 Author
+---
+
+## 👩‍💻 Author
 Zeinab Sedighi
 AI Engineer | Steel Industry | Industrial Predictive Analytics
 
