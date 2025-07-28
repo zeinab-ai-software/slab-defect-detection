@@ -18,6 +18,7 @@ Since a single slab can exhibit **multiple defects simultaneously**, this is fra
 ---
 
 ## 🧱 Project Structure
+```bash
 slab-defect-detection/
 │
 ├── main.py # Main entry point (data loading, training, evaluation)
@@ -26,7 +27,7 @@ slab-defect-detection/
 ├── README.md # Project overview (this file)
 ├── requirements.txt # Required Python packages
 └── data/ # CSV files (not included)
-
+```
 ---
 
 ## ⚙️ How to Run
