@@ -47,8 +47,8 @@ python main.py
 ## 📊 Evaluation Metrics
 This project uses the following metrics tailored for multi-label classification:
 
-F1 Score (sample-based)
-accuracy (specialized for multi-output models)
+- F1 Score (sample-based)
+- Accuracy (specialized for multi-output models)
 These metrics consider partial correctness and overlapping label sets.
 
 ---
