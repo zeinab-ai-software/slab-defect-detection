@@ -1,5 +1,3 @@
-# slab-defect-detection
-Steel slab defects classification using ML for predictive maintenance
 # Slab Defect Detection using Multi-label Multi-class Classification
 
 This project implements a machine learning model to **detect surface and internal defects in steel slabs**, based on process data collected from three key production stages in a steel factory:
